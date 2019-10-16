@@ -4,7 +4,7 @@ class FirebaseAuth
   constructor() {
 
     this.firebaseConfig = {
-    apiKey: "AIzaSyDFZOXYWOuv3vGq-5J2bhh8qPp3W1Uhc-o",
+    apiKey: "*************",
     authDomain: "roboshop-9ef9d.firebaseapp.com",
     databaseURL: "https://roboshop-9ef9d.firebaseio.com",
     projectId: "roboshop-9ef9d",
