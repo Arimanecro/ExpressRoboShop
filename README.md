@@ -8,7 +8,7 @@
    
    ***:heavy_check_mark: GraphQL***
    
-   ***:heavy_check_mark: FirebaseAuth***
+   ***:heavy_check_mark: FirebaseAuth (/list-of-orders)***
 
 **:link:  [Link(Heroku)](https://expressjs-roboshop.herokuapp.com/)**
 
