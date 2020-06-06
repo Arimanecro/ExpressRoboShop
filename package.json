@@ -6,7 +6,7 @@
     "start": "nodemon app.js -e js,html,css,graphql && node app.js"
   },
   "dependencies": {
-    "apollo-server-express": "^2.6.7",
+    "apollo-server-express": "^2.14.2",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "dotenv": "^8.0.0",
