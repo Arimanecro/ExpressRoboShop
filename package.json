@@ -20,7 +20,7 @@
     "http-errors": "~1.6.3",
     "mongodb": "^3.2.7",
     "node-fetch": "^2.6.0",
-    "simple-crypto-js": "^2.0.2",
+    "simple-crypto-js": "^2.3.0",
     "urldecode": "^1.0.1",
     "uuid": "^3.3.2"
   },
